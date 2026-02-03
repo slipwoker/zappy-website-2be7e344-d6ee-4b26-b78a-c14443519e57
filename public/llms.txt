@@ -1,0 +1,86 @@
+# DreamSalon — Generative Engine Optimization Map
+
+> A רהיטים ועיצוב פנים business.
+
+---
+
+## Pages
+
+### Home
+https://dreamsalon-2be7e344.zappy5.app
+
+### Collection
+https://dreamsalon-2be7e344.zappy5.app/collection
+
+### Process
+https://dreamsalon-2be7e344.zappy5.app/process
+
+### Contact
+https://dreamsalon-2be7e344.zappy5.app/contact
+
+### Products
+https://dreamsalon-2be7e344.zappy5.app/products
+המוצרים שלנו - DreamSalon
+
+### Cart
+https://dreamsalon-2be7e344.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://dreamsalon-2be7e344.zappy5.app/checkout
+תשלום
+
+### Login
+https://dreamsalon-2be7e344.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://dreamsalon-2be7e344.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://dreamsalon-2be7e344.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://dreamsalon-2be7e344.zappy5.app/product/:slug
+פרטי המוצר - DreamSalon
+
+### Category
+https://dreamsalon-2be7e344.zappy5.app/category/:slug
+מוצרים - DreamSalon
+
+## Legal & Policy
+
+### Privacy Policy
+https://dreamsalon-2be7e344.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://dreamsalon-2be7e344.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://dreamsalon-2be7e344.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About DreamSalon
+DreamSalon is a business in the רהיטים ועיצוב פנים industry.
+
+## Target Audience
+- זוגות צעירים מרהטים
+- מחפשי ריהוט יוקרתי
+
+## Industry
+רהיטים ועיצוב פנים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://dreamsalon-2be7e344.zappy5.app/sitemap.xml
+- **Robots.txt**: https://dreamsalon-2be7e344.zappy5.app/robots.txt

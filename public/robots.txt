@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dreamsalon-2be7e344.zappy5.app/sitemap.xml
